@@ -1,3 +1,7 @@
+## WARNING
+**Operating this project without an Amateur Radio Technician or General License is a Felony. For the record, I have my license.**
+
+
 # PulseEcho
 
 **PulseEcho** is a multi-band HF CW transceiver built on a Raspberry Pi with a touchscreen interface.  
