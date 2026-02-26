@@ -39,6 +39,8 @@ It also combines **modern touchscreen interaction with classic Morse code** for 
 | 18 | Enclosure 9.1 × 5.9 × 3.4″               | 1      | Mounting Pi, PCB, display               | $18.59       | https://www.amazon.com/gp/product/B0DX79M8B3/ref=ox_sc_act_title_3?smid=A2WO5FNI6I91SW&th=1   |
 | 19 | M3 Nylon Standoff & Fasteners            | 1 kit  | Mount Pi, PCB, display inside enclosure | $7.19        | https://www.amazon.com/gp/product/B0G3XCGSNV/ref=ox_sc_act_title_4?smid=A3696X7CHTBXER&psc=1  |
 
+**For a grand total of:** $384.59
+
 
 ## Wiring
 
